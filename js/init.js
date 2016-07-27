@@ -8,5 +8,9 @@
     	indicators: true
     });
 
+    setInterval(function(){
+		  $('.carousel').carousel('next');
+		}, 4500);
+
   }); // end of document ready
 })(jQuery); // end of jQuery name space
