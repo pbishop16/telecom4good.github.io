@@ -55,3 +55,23 @@ p {
 footer.page-footer {
   margin: 0;
 }
+
+.org-images img {
+  height: 235px;
+}
+
+.card-content p {
+  font-size: .9em;
+}
+
+.card-content h6 {
+  font-weight: bold;
+}
+
+.video-cards .card-image {
+  height: 220px;
+}
+
+.video-cards .card-content {
+  height: 200px;
+}
