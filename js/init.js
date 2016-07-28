@@ -3,7 +3,7 @@
 
     $('.button-collapse').sideNav();
     $('.parallax').parallax();   
-    $('.slider').slider({height: 550});
+    $('.slider').slider({height: 400});
     
 
   }); // end of document ready
