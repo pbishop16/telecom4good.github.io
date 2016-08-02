@@ -3,7 +3,8 @@
 
     $('.button-collapse').sideNav();
     $('.parallax').parallax();   
-    $('.slider').slider({height: 400});
+    $('.slider').slider({full_width: true, height: 500});
+    $(".dropdown-button").dropdown({hover: true});
     
 
   }); // end of document ready
