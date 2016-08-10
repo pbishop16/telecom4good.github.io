@@ -3,7 +3,7 @@
 
     $('.button-collapse').sideNav();
     $('.parallax').parallax();   
-    $('.slider').slider({full_width: true, height: 700});
+    $('.slider').slider({full_width: true, height: 750});
     $(".dropdown-button").dropdown({hover: true});
     
 
